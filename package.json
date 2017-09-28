@@ -1,0 +1,26 @@
+{
+  "name": "auth-mini-auth0",
+  "version": "1.0.0",
+  "description": "UserViewer ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtwoodStewart98/auth-mini-auth0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtwoodStewart98/auth-mini-auth0/issues"
+  },
+  "homepage": "https://github.com/AtwoodStewart98/auth-mini-auth0#readme",
+  "dependencies": {
+    "express": "^4.15.5",
+    "express-session": "^1.15.6",
+    "passport": "^0.4.0",
+    "passport-auth0": "^0.6.0"
+  }
+}
